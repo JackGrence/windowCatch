@@ -1,0 +1,12 @@
+C:\Users\JackGreen\Desktop\VB\Window_Catch\Window_Catch\bin\Debug\Window_Catch.exe
+C:\Users\JackGreen\Desktop\VB\Window_Catch\Window_Catch\bin\Debug\Window_Catch.pdb
+C:\Users\JackGreen\Desktop\VB\Window_Catch\Window_Catch\bin\Debug\Window_Catch.xml
+C:\Users\JackGreen\Desktop\VB\Window_Catch\Window_Catch\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\JackGreen\Desktop\VB\Window_Catch\Window_Catch\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\JackGreen\Desktop\VB\Window_Catch\Window_Catch\obj\x86\Debug\Window_Catch.vbproj.GenerateResource.Cache
+C:\Users\JackGreen\Desktop\VB\Window_Catch\Window_Catch\obj\x86\Debug\Window_Catch.exe
+C:\Users\JackGreen\Desktop\VB\Window_Catch\Window_Catch\obj\x86\Debug\Window_Catch.xml
+C:\Users\JackGreen\Desktop\VB\Window_Catch\Window_Catch\obj\x86\Debug\Window_Catch.pdb
+C:\Users\green\Desktop\VB\Window_Catch\Window_Catch\obj\x86\Debug\Window_Catch.exe
+C:\Users\green\Desktop\VB\Window_Catch\Window_Catch\obj\x86\Debug\Window_Catch.xml
+C:\Users\green\Desktop\VB\Window_Catch\Window_Catch\obj\x86\Debug\Window_Catch.pdb
